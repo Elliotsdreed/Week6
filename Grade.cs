@@ -8,4 +8,8 @@ namespace Week6
         int assessmentElement;
         int elementWeight;
     }
+    public void PrintGrade()
+    {
+        
+    }
 }

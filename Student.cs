@@ -15,4 +15,8 @@ namespace Week6
         string gradeProfile;
 
     }
+    public void GetReportCard()
+    {
+        
+    }
 }
